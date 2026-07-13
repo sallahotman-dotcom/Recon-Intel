@@ -1,0 +1,7 @@
+venv/
+venv_termux/
+venv_ubuntu/
+*.json
+*.db
+*.gguf
+__pycache__/
